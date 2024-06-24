@@ -1,0 +1,8 @@
+Monthly Sales Summary = 
+SUMMARIZE(
+  'Sales',
+  'Sales'[Date].[Year],
+  'Sales'[Date].[Month],
+  "Units Sold", SUM('Sales'[Units Sold]),
+  "Total Sales", SUM('Sales'[Total Sales])
+)
