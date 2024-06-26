@@ -2,6 +2,7 @@
 
 ![image](https://github.com/mnobeidat13/PowerBI-Resources/assets/32016587/d400769e-a7b2-4629-813f-8eebee100d1d)
 
+Doanload the data here: https://github.com/mnobeidat13/PowerBI-Resources/blob/main/HR%20Data.csv
 #### Objectives
 
 1. **Import Data**
